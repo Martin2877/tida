@@ -11,12 +11,14 @@
 ## 功能
 
 <br/>
-<hr/>
 <table>
 <tr>
-    <td> 
-    <td> 
-    <td> 
+    <td> <img src="https://github.com/Martin2877/tida/assets/26109420/0454bdf2-b82c-40a3-87e0-7b05e90f8532" alt=" Edge" width="300px" height="350px" />
+    <td>
+    <td> <img src="https://github.com/Martin2877/tida/assets/26109420/919a933f-8e41-4d33-b8b6-099ecf4568c1" alt=" Edge" width="220px" height="350px" />
+    <td>
+    <td><img src="https://github.com/Martin2877/tida/assets/26109420/fc83e570-00a0-490c-b844-120b92313e3e" alt=" Edge" width="220px" height="350px" />
+    
 </table>
 
 ## 安装
@@ -71,7 +73,7 @@ pnpm tauri build
 
 可以加入群聊或加我[Ali0th](https://github.com/Martin2877)好友进入群聊。
 
-<img src="https://user-images.githubusercontent.com/26109420/233271942-aeccc557-da89-4e6e-9e4b-60cc885e141e.jpg" alt=" Edge" width="180px" height="230px" />
+<img src="https://github.com/Martin2877/tida/assets/26109420/7953fd2c-8850-4209-929d-5deef61badef" alt=" Edge" width="150px" height="230px" /><img src="https://user-images.githubusercontent.com/26109420/233271942-aeccc557-da89-4e6e-9e4b-60cc885e141e.jpg" alt=" Edge" width="180px" height="230px" />
 
 ## Stargazers over time
 
