@@ -1,0 +1,8 @@
+.github
+actions
+asset
+dist
+node_modules
+public
+target
+*-lock*
