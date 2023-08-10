@@ -8,6 +8,12 @@
 <a>English</a> - 
 <a href="./README_zh-cn.md">简体中文</a>
 
+## Author
+
+[@amad3u4](https://github.com/amad3u4/)
+
+[@Ali0th](https://github.com/Martin2877)
+
 ## functions
 
 <br/>
