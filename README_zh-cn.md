@@ -8,6 +8,12 @@
 <a href="./README.md">English</a> -
 <a>简体中文</a>
 
+## 开发者
+
+[@amad3u4](https://github.com/amad3u4/)
+
+[@Ali0th](https://github.com/Martin2877)
+
 ## 功能
 
 <br/>
