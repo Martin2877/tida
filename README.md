@@ -36,11 +36,11 @@
 ### deployment
 
 ```bash
-# 安装依赖
+# install dependencies
 pnpm install
-# 调试
+# debug
 pnpm tauri dev
-# 编译
+# compile
 pnpm tauri build
 ```
 
