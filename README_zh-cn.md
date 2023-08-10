@@ -81,8 +81,10 @@ pnpm tauri build
 
 <img src="https://github.com/Martin2877/tida/assets/26109420/7953fd2c-8850-4209-929d-5deef61badef" alt=" Edge" width="150px" height="230px" /><img src="https://user-images.githubusercontent.com/26109420/233271942-aeccc557-da89-4e6e-9e4b-60cc885e141e.jpg" alt=" Edge" width="180px" height="230px" />
 
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/Martin2877/tida.svg)](https://starchart.cc/Martin2877/tida)
+
 
 
