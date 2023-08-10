@@ -11,19 +11,21 @@
 ## functions
 
 <br/>
-<hr/>
 <table>
 <tr>
-    <td> 
-    <td> 
-    <td> 
+    <td> <img src="https://github.com/Martin2877/tida/assets/26109420/0454bdf2-b82c-40a3-87e0-7b05e90f8532" alt=" Edge" width="300px" height="350px" />
+    <td>
+    <td> <img src="https://github.com/Martin2877/tida/assets/26109420/919a933f-8e41-4d33-b8b6-099ecf4568c1" alt=" Edge" width="220px" height="350px" />
+    <td>
+    <td><img src="https://github.com/Martin2877/tida/assets/26109420/fc83e570-00a0-490c-b844-120b92313e3e" alt=" Edge" width="220px" height="350px" />
+    
 </table>
 
 ## setup
 
 ### download
 
-[前往releases下载](https://github.com/Martin2877/tida/releases)，双击执行即可。
+[ahead for releases](https://github.com/Martin2877/tida/releases)，Double-click to execute.
 
 ### deployment
 
@@ -71,7 +73,7 @@ pnpm tauri build
 
 You can join the group chat or add my [Ali0th](https://github.com/Martin2877) friend to enter the group chat.
 
-<img src="https://user-images.githubusercontent.com/26109420/233271729-b0d8644f-2538-40ae-8bde-abeb1187c5bb.jpg" alt=" Edge" width="180px" height="230px" /><img src="https://user-images.githubusercontent.com/26109420/233271942-aeccc557-da89-4e6e-9e4b-60cc885e141e.jpg" alt=" Edge" width="180px" height="230px" />
+<img src="https://github.com/Martin2877/tida/assets/26109420/7953fd2c-8850-4209-929d-5deef61badef" alt=" Edge" width="150px" height="230px" /><img src="https://user-images.githubusercontent.com/26109420/233271942-aeccc557-da89-4e6e-9e4b-60cc885e141e.jpg" alt=" Edge" width="180px" height="230px" />
 
 ## Stargazers over time
 
